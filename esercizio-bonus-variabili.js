@@ -12,6 +12,9 @@
 var one = 'Star';
 var two = 'Wars';
 
+var three = one;
+var one = two;
+var two = three;
 // Implementa qui il tuo codice
 
 console.log('one: '+one);
